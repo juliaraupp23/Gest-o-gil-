@@ -1,6 +1,6 @@
 # gestao_agil
 Repositório - APP Alunos 
-MEBROS
+MEMBROS
 
 3. INGRID
 4.VINICIUS
