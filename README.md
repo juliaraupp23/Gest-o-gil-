@@ -2,7 +2,7 @@
 Repositório - APP Alunos 
 MEMBROS
 
-3. INGRID
+3.INGRID
 4.VINICIUS
 5.GABRIEL
 
